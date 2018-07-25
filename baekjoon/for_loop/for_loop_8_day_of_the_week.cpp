@@ -8,6 +8,7 @@
 출력
 첫째 줄에 x월 y일이 무슨 요일인지에 따라 SUN, MON, TUE, WED, THU, FRI, SAT중 하나를 출력한다.
 */
+/*
 #include <iostream>
 #include <string>
 
@@ -25,3 +26,4 @@ int main(int argc, char* argv[])
 
 	return 0;
 }
+*/
