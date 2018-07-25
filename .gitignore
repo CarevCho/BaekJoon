@@ -259,3 +259,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/baekjoon/sugar_delivery/targetver.h
+/baekjoon/sugar_delivery/sugar_delivery.vcxproj.filters
+/baekjoon/sugar_delivery/sugar_delivery.vcxproj
+/baekjoon/sugar_delivery/stdafx.h
+/baekjoon/sugar_delivery/stdafx.cpp
+/baekjoon/baekjoon.sln
